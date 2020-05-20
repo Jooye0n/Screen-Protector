@@ -1,5 +1,4 @@
 # Screen-Protector
-# Screen-Protector
 1. 목표
 Win32에서 OpenVG를 이용하여 이미지를 움직인다.
 
